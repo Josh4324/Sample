@@ -178,13 +178,13 @@ function App() {
               {faq1 === true ? (
                 <img
                   onClick={() => setFaq1(!faq1)}
-                  src="./public/minus.svg"
+                  src="./minus.svg"
                   alt="remove"
                 />
               ) : (
                 <img
                   onClick={() => setFaq1(!faq1)}
-                  src="./public/add.svg"
+                  src="./add.svg"
                   alt="add"
                 />
               )}
@@ -202,13 +202,13 @@ function App() {
               {faq2 === true ? (
                 <img
                   onClick={() => setFaq2(!faq2)}
-                  src="./public/minus.svg"
+                  src="./minus.svg"
                   alt="remove"
                 />
               ) : (
                 <img
                   onClick={() => setFaq2(!faq2)}
-                  src="./public/add.svg"
+                  src="./add.svg"
                   alt="add"
                 />
               )}
@@ -228,13 +228,13 @@ function App() {
               {faq3 === true ? (
                 <img
                   onClick={() => setFaq3(!faq3)}
-                  src="./public/minus.svg"
+                  src="./minus.svg"
                   alt="remove"
                 />
               ) : (
                 <img
                   onClick={() => setFaq3(!faq3)}
-                  src="./public/add.svg"
+                  src="./add.svg"
                   alt="add"
                 />
               )}
