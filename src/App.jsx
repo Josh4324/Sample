@@ -32,7 +32,7 @@ function App() {
             style={{ color: "white", cursor: "pointer" }}
             rel="noreferrer"
           >
-            <img src="./public/telegram.svg" className='social-item' alt="ref" />
+            <img src="./telegram.svg" className='social-item' alt="ref" />
           </a>
 
           <a
@@ -42,7 +42,7 @@ function App() {
             rel="noreferrer"
           >
             <img
-              src="./public/twitter.svg"
+              src="./twitter.svg"
               className="social-item"
               alt="ref"
             />
@@ -72,7 +72,7 @@ function App() {
                 style={{ color: "white", cursor: "pointer" }}
                 rel="noreferrer"
               >
-                <img src="./public/telegram.svg" className='social-item' alt="ref" />
+                <img src="./telegram.svg" className='social-item' alt="ref" />
               </a>
 
               <a
@@ -82,7 +82,7 @@ function App() {
                 rel="noreferrer"
               >
                 <img
-                  src="./public/twitter.svg"
+                  src="./twitter.svg"
                   className="social-item"
                   alt="ref"
                 />
