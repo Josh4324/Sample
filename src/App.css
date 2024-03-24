@@ -122,10 +122,18 @@
   display: flex;
   color: black;
   padding: 20px;
+  justify-content: space-between;
+}
+
+.pepe {
+  width: 400px;
+  display: block;
+  margin-top: 50px;
 }
 
 .section2-box {
-  padding-top: 100px;
+  padding-top: 50px;
+  width: 45%;
 }
 
 .text1 {

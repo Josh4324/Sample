@@ -114,7 +114,7 @@ function App() {
 
       <section className='section2'>
         <div>
-          <img src='./dede.png' alt='dede' />
+          <img className='pepe' src='./pepe.jpg' alt='dede' />
         </div>
 
         <div className='section2-box'>
@@ -136,14 +136,14 @@ function App() {
         <div className='cardlist'>
           <Tilt>
             <div className='card'>
-              <img className='img' src='./dede.png' alt='dede' />
+              <img className='img' src='./tax.jpg' alt='dede' />
               <div className='text6'>TAXES</div>
               <div className='text6'>0/0</div>
             </div>
           </Tilt>
           <Tilt>
             <div className='card'>
-              <img className='img' src='./dede.png' alt='dede' />
+              <img className='img' src='./supply.jpg' alt='dede' />
               <div className='text6'>SUPPLY</div>
               <div className='text6'>10 MILLION</div>
             </div>
@@ -159,7 +159,7 @@ function App() {
 
           <Tilt>
             <div className='card'>
-              <img className='img' src='./dede.png' alt='dede' />
+              <img className='img' src='./revoked.jpg' alt='dede' />
               <div className='text6'>MINT & FREEZE</div>
               <div className='text6'>REVOKED</div>
             </div>
