@@ -329,4 +329,12 @@
     padding-top: 50px;
     width: 100%;
   }
+
+  .text4 {
+    font-size: 40px;
+    font-family: "Ubuntu", sans-serif;
+    text-align: center;
+    color: black;
+    font-weight: 900;
+  }
 }
