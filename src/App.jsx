@@ -36,7 +36,7 @@ function App() {
           </a>
 
           <a
-            href="https://twitter.com/keepitdefi?t=yuQQKMLiHCzhjmWL-tjptA&s=09"
+            href="https://x.com/DedeOnSolana_?t=g6eOWwBaSkGdVi3grtH3bQ&s=09"
             target="_blank"
             style={{ color: "white", cursor: "pointer" }}
             rel="noreferrer"
@@ -52,7 +52,7 @@ function App() {
 
       <section id="about" className='section1'>
         <div>
-          <img src='./dede.png' alt='dede' />
+          <img className='pdede' src='./dede2.jpg' alt='dede' />
         </div>
         <div className='box'>
           <div className='box-text1'>DeDe</div>
@@ -76,7 +76,7 @@ function App() {
               </a>
 
               <a
-                href="https://twitter.com/keepitdefi?t=yuQQKMLiHCzhjmWL-tjptA&s=09"
+                href="https://x.com/DedeOnSolana_?t=g6eOWwBaSkGdVi3grtH3bQ&s=09"
                 target="_blank"
                 style={{ color: "white", cursor: "pointer" }}
                 rel="noreferrer"

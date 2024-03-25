@@ -232,3 +232,55 @@
   margin-top: 100px;
   color: black;
 }
+
+@media (max-width: 768px) {
+  .section1 {
+    margin-top: 100px;
+    width: 80%;
+    margin-bottom: 100px;
+
+    flex-direction: column;
+  }
+
+  .pdede {
+    width: 100%;
+  }
+
+  .section2 {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    color: black;
+    padding: 20px;
+    justify-content: space-between;
+
+    flex-direction: column;
+  }
+
+  .pepe {
+    width: 100%;
+    display: block;
+    margin-top: 50px;
+  }
+
+  .card {
+    width: 80%;
+    border: 10px solid black;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    background-color: white;
+    color: black;
+    transform: rotate(-10deg);
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .img {
+    width: 100%;
+  }
+}
