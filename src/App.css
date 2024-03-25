@@ -8,6 +8,7 @@
 
 .logo {
   font-size: 30px;
+  font-family: "Dancing Script", cursive;
 }
 
 .body {
@@ -84,20 +85,29 @@
 .box-text1 {
   font-weight: 900;
   font-size: 100px;
+  font-family: "Dancing Script", cursive;
+}
+
+.box-text11 {
+  font-weight: 900;
+  font-size: 20px;
+  position: relative;
+  margin-top: -30px;
 }
 
 .box-text2 {
   font-weight: 900;
   font-size: 30px;
+  margin-top: 50px;
 }
 
 .dede {
   font-size: 20px;
   font-weight: 900;
   color: black;
-  padding-left: 30px;
-  padding-right: 30px;
   font-family: "Workbench", sans-serif;
+  padding-right: 30px;
+  width: 400px;
 }
 
 .buy {
@@ -178,6 +188,7 @@
 .text7 {
   font-size: 24px;
   font-family: "Ubuntu", sans-serif;
+  padding-top: 20px;
 }
 
 .card {
@@ -233,6 +244,11 @@
   color: black;
 }
 
+.text9 {
+  font-size: 20px;
+  font-family: "Ubuntu", sans-serif;
+}
+
 @media (max-width: 768px) {
   .section1 {
     margin-top: 100px;
@@ -281,6 +297,36 @@
   }
 
   .img {
+    width: 100%;
+  }
+
+  .inner-header {
+    display: none;
+  }
+
+  .header {
+    width: 90%;
+  }
+
+  .social {
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+  }
+
+  .box {
+    color: black;
+    margin-left: 0px;
+  }
+
+  .soc {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .section2-box {
+    padding-top: 50px;
     width: 100%;
   }
 }

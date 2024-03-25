@@ -55,8 +55,8 @@ function App() {
           <img className='pdede' src='./dede2.jpg' alt='dede' />
         </div>
         <div className='box'>
-          <div className='box-text1'>DeDe</div>
-          <div className='box-text1'>The PePe Killer</div>
+          <div className='box-text1'>D<span>e</span>D<span>e</span></div>
+          <div className='box-text11'>The PePe Killer</div>
           <div className='box-text2'>
             DeDe is the PePe Killer on the Solana network.
           </div>
@@ -95,7 +95,7 @@ function App() {
 
       </section>
 
-      <div style={{ backgroundColor: "white", padding: "20px" }}>
+      <div style={{ backgroundColor: "white", paddingTop: "20px", paddingBottom: "20px" }}>
         <HorizontalTicker easing="linear" duration={25000}>
           <div className='dede'>
             $DeDe The PePe Killer
@@ -105,9 +105,6 @@ function App() {
             $DeDe The PePe Killer
           </div>
 
-          <div className='dede'>
-            $DeDe The PePe Killer
-          </div>
         </HorizontalTicker>
       </div>
 
@@ -174,7 +171,7 @@ function App() {
         <div>
           <div className="faqbox">
             <div className="faq-inner">
-              <div className="home_text12">Who is DeDe?</div>
+              <div className="text9">Who is DeDe?</div>
               {faq1 === true ? (
                 <img
                   onClick={() => setFaq1(!faq1)}
@@ -198,7 +195,7 @@ function App() {
 
           <div className="faqbox">
             <div className="faq-inner">
-              <div className="home_text12">What chain is $DeDe on?</div>
+              <div className="text9">What chain is $DeDe on?</div>
               {faq2 === true ? (
                 <img
                   onClick={() => setFaq2(!faq2)}
@@ -224,7 +221,7 @@ function App() {
 
           <div className="faqbox">
             <div className="faq-inner">
-              <div className="home_text12">When Moon?</div>
+              <div className="text9">When Moon?</div>
               {faq3 === true ? (
                 <img
                   onClick={() => setFaq3(!faq3)}
