@@ -148,7 +148,7 @@ function App() {
 
           <Tilt>
             <div className='card'>
-              <img className='img' src='./dede.png' alt='dede' />
+              <img className='img' src='./pepe.jpg' alt='dede' />
               <div className='text6'>LIQUIDITY</div>
               <div className='text6'>BURNED</div>
             </div>
