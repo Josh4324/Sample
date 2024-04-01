@@ -36,7 +36,7 @@ function App() {
           </a>
 
           <a
-            href="https://x.com/DedeOnSolana_?t=g6eOWwBaSkGdVi3grtH3bQ&s=09"
+            href="https://x.com/DedeOnBase_?t=g6eOWwBaSkGdVi3grtH3bQ&s=09"
             target="_blank"
             style={{ color: "white", cursor: "pointer" }}
             rel="noreferrer"
@@ -58,7 +58,7 @@ function App() {
           <div className='box-text1'>D<span>e</span>D<span>e</span></div>
           <div className='box-text11'>The PePe Killer</div>
           <div className='box-text2'>
-            DeDe is the PePe Killer on the Solana network.
+            DeDe is the PePe Killer on the Base network.
           </div>
 
           <div className='buy'>
@@ -76,7 +76,7 @@ function App() {
               </a>
 
               <a
-                href="https://x.com/DedeOnSolana_?t=g6eOWwBaSkGdVi3grtH3bQ&s=09"
+                href="https://x.com/DedeOnBase_?t=g6eOWwBaSkGdVi3grtH3bQ&s=09"
                 target="_blank"
                 style={{ color: "white", cursor: "pointer" }}
                 rel="noreferrer"
@@ -117,7 +117,7 @@ function App() {
         <div className='section2-box'>
           <div className='text1'>About Us</div>
 
-          <div className='text2'>$DeDe on Solana</div>
+          <div className='text2'>$DeDe on Base</div>
 
           <div className='text3'>
             The bears waited so long for $16k... DeDe is here to bail you out. Still waiting for a dip to $10k
@@ -212,7 +212,7 @@ function App() {
             </div>
             {faq2 === true ? (
               <div className="text7">
-                DeDe is born on the Solana Blockchain
+                DeDe is born on the Base Blockchain
               </div>
             ) : null}
           </div>
@@ -249,7 +249,7 @@ function App() {
 
       <div className='text8'>Disclaimer: Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction.</div>
 
-      <div className='text8'>© 2024 DeDeOnSol  • E-mail: dede@gmail.com</div>
+      <div className='text8'>© 2024 DeDeOnBase • E-mail: dede@gmail.com</div>
     </main>
   )
 }
