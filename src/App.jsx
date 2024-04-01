@@ -27,7 +27,7 @@ function App() {
 
         <div className='social'>
           <a
-            href="https://t.me/+2qrutK9zbbY4ODBk"
+            href="https://t.me/Dede_On_base"
             target="_blank"
             style={{ color: "white", cursor: "pointer" }}
             rel="noreferrer"
@@ -36,7 +36,7 @@ function App() {
           </a>
 
           <a
-            href="https://x.com/DedeOnBase_?t=g6eOWwBaSkGdVi3grtH3bQ&s=09"
+            href="https://x.com/DedeOnBase_"
             target="_blank"
             style={{ color: "white", cursor: "pointer" }}
             rel="noreferrer"
@@ -67,7 +67,7 @@ function App() {
             </button>
             <div className='soc'>
               <a
-                href="https://t.me/+2qrutK9zbbY4ODBk"
+                href="https://t.me/Dede_On_base"
                 target="_blank"
                 style={{ color: "white", cursor: "pointer" }}
                 rel="noreferrer"
